@@ -1,5 +1,7 @@
 # Complete CCNA 200-300 Course Notes
 
+https://drive.google.com/file/d/12YBQ1_gsvdld9ifLZu7Vjl1XoLn2TpiQ/view
+
 This is my repository of my personal notes taken during Jeremy's IT Lab Complete CCNA 200-300 course.
 Each "Day" is broken down into individual chapters.
 
